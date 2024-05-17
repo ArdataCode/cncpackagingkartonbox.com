@@ -1,0 +1,1338 @@
+{
+    "version": "0.4",
+    "title": "Product",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "3c2536a1",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/mirror-room-makeup-small.jpg",
+                    "id": 621
+                },
+                "background_position": "center center",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#000000",
+                "background_overlay_position": "center center",
+                "background_overlay_attachment": "fixed",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.3,
+                    "sizes": []
+                },
+                "shape_divider_top": "wave-brush",
+                "shape_divider_top_width": {
+                    "unit": "%",
+                    "size": 150,
+                    "sizes": []
+                },
+                "shape_divider_top_height": {
+                    "unit": "px",
+                    "size": 60,
+                    "sizes": []
+                },
+                "shape_divider_top_flip": "yes",
+                "shape_divider_top_negative": "yes",
+                "padding": {
+                    "unit": "px",
+                    "top": "150",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_size": "cover",
+                "shape_divider_top_width_mobile": {
+                    "unit": "%",
+                    "size": 250,
+                    "sizes": []
+                },
+                "shape_divider_top_height_mobile": {
+                    "unit": "px",
+                    "size": 30,
+                    "sizes": []
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "10",
+                    "bottom": "30",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "726b339b",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "15d51acc",
+                            "settings": {
+                                "title": "Products",
+                                "header_size": "h1",
+                                "align": "center",
+                                "title_color": "#FFFFFF",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Montserrat",
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "308a40a1",
+            "settings": {
+                "structure": "20",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "20",
+                    "bottom": "50",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "10",
+                    "bottom": "50",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2d8e9b74",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 45.351,
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1d02ba81",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2dcce187",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 20,
+                                        "content_position": "center",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1870d00b",
+                                            "settings": {
+                                                "align": "left",
+                                                "text": "Divider",
+                                                "color": "#F59C8A",
+                                                "weight": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "gap": {
+                                                    "unit": "px",
+                                                    "size": 2,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "divider",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5224e250",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 80,
+                                        "content_position": "center",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "20",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1e972522",
+                                            "settings": {
+                                                "title": "Craft Presentation",
+                                                "header_size": "h4",
+                                                "align": "left",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Montserrat",
+                                                "typography_font_weight": "500",
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 2,
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#F59C8A",
+                                                "typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.5,
+                                                    "sizes": []
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "fc4cb3d",
+                            "settings": {
+                                "title": "Our Products Recycle Craft",
+                                "align": "left",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Montserrat",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 36,
+                                    "sizes": []
+                                },
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align_mobile": "center",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "fbb2b75",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 54.649,
+                        "content_position": "center",
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "0",
+                            "left": "20",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "12e345e8",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Aenean at facilisis diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<\/p>",
+                                "align": "left",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align_mobile": "center",
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2318aece",
+            "settings": {
+                "structure": "20",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "186c1a1b",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "4223872",
+                            "settings": {
+                                "skin": "cover",
+                                "bg_image": {
+                                    "url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/clothes-shop-interior-small.jpg",
+                                    "id": 623
+                                },
+                                "title": "Fashion Clothing",
+                                "description": "Lorem ipsum dolor sit amet consectetur",
+                                "button": "",
+                                "min-height": {
+                                    "unit": "px",
+                                    "size": 520,
+                                    "sizes": []
+                                },
+                                "vertical_position": "middle",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Montserrat",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "bold",
+                                "transformation": "zoom-out",
+                                "overlay_color": "rgba(0, 0, 0, 0.38)",
+                                "bg_image_size": "full",
+                                "min-height_mobile": {
+                                    "unit": "px",
+                                    "size": 250,
+                                    "sizes": []
+                                },
+                                "description_typography_typography": "custom"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "call-to-action",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5cf20420",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "48220609",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "473e0161",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "57167344",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/jewelry-and-bijouterie-small.jpg",
+                                                    "id": 582
+                                                },
+                                                "title": "Jewellery",
+                                                "description": "Lorem ipsum dolor sit amet",
+                                                "button": "",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": 250,
+                                                    "sizes": []
+                                                },
+                                                "vertical_position": "middle",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Montserrat",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "bold",
+                                                "transformation": "zoom-out",
+                                                "overlay_color": "rgba(0, 0, 0, 0.19)",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "bg_image_size": "full",
+                                                "min-height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 250,
+                                                    "sizes": []
+                                                },
+                                                "title_tag": "h3"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4c92e640",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "66916b6c",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/modern-simple-cafe-interior-with-wooden-furniture-small.jpg",
+                                                    "id": 859
+                                                },
+                                                "title": "Furniture",
+                                                "description": "Lorem ipsum dolor sit amet",
+                                                "button": "",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": 250,
+                                                    "sizes": []
+                                                },
+                                                "vertical_position": "middle",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Montserrat",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "bold",
+                                                "transformation": "zoom-out",
+                                                "overlay_color": "rgba(0, 0, 0, 0.2)",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "title_tag": "h3"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "74d48756",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "3f12d663",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "17352d62",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/ceramic-craft-ware-small.jpg",
+                                                    "id": 585
+                                                },
+                                                "title": "Ceramics",
+                                                "description": "Lorem ipsum dolor sit amet",
+                                                "button": "",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": 250,
+                                                    "sizes": []
+                                                },
+                                                "vertical_position": "middle",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Montserrat",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "bold",
+                                                "transformation": "zoom-out",
+                                                "overlay_color": "rgba(0, 0, 0, 0.23)",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "bg_image_size": "full"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5a276d8e",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "273c8458",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/living-room.jpg",
+                                                    "id": 558
+                                                },
+                                                "title": "Home Decor",
+                                                "description": "Lorem ipsum dolor sit amet",
+                                                "button": "",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": 250,
+                                                    "sizes": []
+                                                },
+                                                "vertical_position": "middle",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Montserrat",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "bold",
+                                                "transformation": "zoom-out",
+                                                "overlay_color": "rgba(0, 0, 0, 0.38)",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "b517a1f",
+            "settings": {
+                "structure": "20",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "576584bc",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6d160f76",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "3d079fda",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "98147fa",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/leather-crafting-tools-small.jpg",
+                                                    "id": 602
+                                                },
+                                                "title": "Leather Craft",
+                                                "description": "Lorem ipsum dolor sit amet",
+                                                "button": "",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": 250,
+                                                    "sizes": []
+                                                },
+                                                "vertical_position": "middle",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Montserrat",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "bold",
+                                                "transformation": "zoom-out",
+                                                "overlay_color": "rgba(0, 0, 0, 0.19)",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "bg_image_size": "full",
+                                                "title_tag": "h3"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "68e890fe",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "68eb0fa1",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/close-up-of-male-hand-of-potter-examining-clay-cup-small.jpg",
+                                                    "id": 588
+                                                },
+                                                "title": "Sculpturing",
+                                                "description": "Lorem ipsum dolor sit amet",
+                                                "button": "",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": 250,
+                                                    "sizes": []
+                                                },
+                                                "vertical_position": "middle",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Montserrat",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "bold",
+                                                "transformation": "zoom-out",
+                                                "overlay_color": "rgba(0, 0, 0, 0.2)",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "title_tag": "h3"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "3be99ca4",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "8363b2d",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "8f7ac3e",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/small-local-shop-small.jpg",
+                                                    "id": 624
+                                                },
+                                                "title": "Woven Craft",
+                                                "description": "Lorem ipsum dolor sit amet",
+                                                "button": "",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": 250,
+                                                    "sizes": []
+                                                },
+                                                "vertical_position": "middle",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Montserrat",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "bold",
+                                                "transformation": "zoom-out",
+                                                "overlay_color": "rgba(0, 0, 0, 0.23)",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "title_tag": "h3"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2e94f04f",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "699b6a15",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/clay-rustic-kitchenware-pot-bowls-and-plates-from.jpg",
+                                                    "id": 625
+                                                },
+                                                "title": "Clay Craft",
+                                                "description": "Lorem ipsum dolor sit amet",
+                                                "button": "",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": 250,
+                                                    "sizes": []
+                                                },
+                                                "vertical_position": "middle",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Montserrat",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "bold",
+                                                "transformation": "zoom-out",
+                                                "overlay_color": "rgba(0, 0, 0, 0.38)",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "title_tag": "h3"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "3295e51",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "417e3cf6",
+                            "settings": {
+                                "skin": "cover",
+                                "bg_image": {
+                                    "url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/shopping-leather-handmade-crafts-shop-bags-craftsmanship-small.jpg",
+                                    "id": 608
+                                },
+                                "title": "Accesories",
+                                "description": "Lorem ipsum dolor sit amet consectetur",
+                                "button": "",
+                                "min-height": {
+                                    "unit": "px",
+                                    "size": 520,
+                                    "sizes": []
+                                },
+                                "vertical_position": "middle",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Montserrat",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "bold",
+                                "transformation": "zoom-out",
+                                "overlay_color": "rgba(0, 0, 0, 0.38)",
+                                "min-height_mobile": {
+                                    "unit": "px",
+                                    "size": 250,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "call-to-action",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "7ad5f789",
+            "settings": {
+                "structure": "20",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "2af3af12",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 50.614,
+                        "content_position": "center",
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "59bf2626",
+                            "settings": {
+                                "slides": [
+                                    {
+                                        "heading": "Custom Painting",
+                                        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor",
+                                        "button_text": "",
+                                        "background_color": "",
+                                        "_id": "724eda4",
+                                        "background_image": {
+                                            "url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/paint-brushes-and-tubes-of-oil-paints-on-wooden-ba-small.jpg",
+                                            "id": 861
+                                        },
+                                        "background_size": "cover",
+                                        "background_ken_burns": "",
+                                        "zoom_direction": "in",
+                                        "background_overlay": "yes",
+                                        "background_overlay_color": "rgba(0, 0, 0, 0.31)",
+                                        "background_overlay_blend_mode": "",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "link_click": "slide",
+                                        "custom_style": "",
+                                        "horizontal_position": "",
+                                        "vertical_position": "",
+                                        "text_align": "",
+                                        "content_color": "#FFFFFF",
+                                        "repeater_text_shadow_text_shadow_type": "",
+                                        "repeater_text_shadow_text_shadow": {
+                                            "horizontal": 0,
+                                            "vertical": 0,
+                                            "blur": 10,
+                                            "color": "rgba(0,0,0,0.3)"
+                                        }
+                                    },
+                                    {
+                                        "heading": "Knitted Clothes",
+                                        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor",
+                                        "button_text": "",
+                                        "background_color": "",
+                                        "_id": "597180d",
+                                        "background_image": {
+                                            "url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/wool-sweater-small.jpg",
+                                            "id": 631
+                                        },
+                                        "background_size": "cover",
+                                        "background_ken_burns": "",
+                                        "zoom_direction": "in",
+                                        "background_overlay": "yes",
+                                        "background_overlay_color": "rgba(0, 0, 0, 0.42)",
+                                        "background_overlay_blend_mode": "",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "link_click": "slide",
+                                        "custom_style": "",
+                                        "horizontal_position": "",
+                                        "vertical_position": "",
+                                        "text_align": "",
+                                        "content_color": "",
+                                        "repeater_text_shadow_text_shadow_type": "",
+                                        "repeater_text_shadow_text_shadow": {
+                                            "horizontal": 0,
+                                            "vertical": 0,
+                                            "blur": 10,
+                                            "color": "rgba(0,0,0,0.3)"
+                                        }
+                                    },
+                                    {
+                                        "heading": "Rustic Craft",
+                                        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor",
+                                        "button_text": "",
+                                        "background_color": "",
+                                        "_id": "fb2d0ba",
+                                        "background_image": {
+                                            "url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/artisans-working-with-ceramics-square.jpg",
+                                            "id": 849
+                                        },
+                                        "background_size": "cover",
+                                        "background_ken_burns": "",
+                                        "zoom_direction": "in",
+                                        "background_overlay": "yes",
+                                        "background_overlay_color": "rgba(0, 0, 0, 0.33)",
+                                        "background_overlay_blend_mode": "",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "link_click": "slide",
+                                        "custom_style": "",
+                                        "horizontal_position": "",
+                                        "vertical_position": "",
+                                        "text_align": "",
+                                        "content_color": "",
+                                        "repeater_text_shadow_text_shadow_type": "",
+                                        "repeater_text_shadow_text_shadow": {
+                                            "horizontal": 0,
+                                            "vertical": 0,
+                                            "blur": 10,
+                                            "color": "rgba(0,0,0,0.3)"
+                                        }
+                                    }
+                                ],
+                                "arrows_color": "#FFFFFF",
+                                "dots_color": "#FFFFFF",
+                                "slides_height": {
+                                    "unit": "px",
+                                    "size": 320,
+                                    "sizes": []
+                                },
+                                "heading_typography_typography": "custom",
+                                "heading_typography_font_family": "Montserrat",
+                                "heading_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "description_typography_typography": "custom",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "description_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "slides",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "391f46f6",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 49.386,
+                        "content_position": "center",
+                        "padding": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "40",
+                            "bottom": "40",
+                            "left": "40",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3862eb84",
+                            "settings": {
+                                "title": "Designed Experiences Made for Everybody\u2019s Taste",
+                                "align": "left",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Montserrat",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 36,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "bold",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5,
+                                    "sizes": []
+                                },
+                                "align_mobile": "center",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4cb0c7f2",
+                            "settings": {
+                                "editor": "<p>Tell us what you need and we will come back to you with a quote.<\/p>",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1fcc6bb0",
+                            "settings": {
+                                "text": "custom now",
+                                "align": "left",
+                                "typography_typography": "custom",
+                                "typography_font_weight": "bold",
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "button_text_color": "#FFFFFF",
+                                "background_color": "#F59C8A",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "_animation": "fadeInUp",
+                                "typography_font_family": "Montserrat",
+                                "hover_animation": "float",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes"
+    }
+}

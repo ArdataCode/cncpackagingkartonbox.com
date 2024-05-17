@@ -1,0 +1,1457 @@
+{
+    "manifest_version": "1.0.14",
+    "title": "Craftso",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/theme.kotakkuning.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/theme.kotakkuning.com\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/theme.kotakkuning.com\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/theme.kotakkuning.com\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/theme.kotakkuning.com\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Showroom",
+            "screenshot": "screenshots\/showroom.jpg",
+            "source": "templates\/showroom.json",
+            "preview_url": "https:\/\/theme.kotakkuning.com\/template-kit\/showroom\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/theme.kotakkuning.com\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/theme.kotakkuning.com\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Product",
+            "screenshot": "screenshots\/product.jpg",
+            "source": "templates\/product.json",
+            "preview_url": "https:\/\/theme.kotakkuning.com\/template-kit\/product\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/theme.kotakkuning.com\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/theme.kotakkuning.com\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/theme.kotakkuning.com\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/theme.kotakkuning.com\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "2.10.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "2.9.13",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "wool-sweater-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/wool-sweater-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 252762,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/9181cff8-97bd-495e-b0e4-1bb403c3c5dd"
+        },
+        {
+            "filename": "z9BJpP_t20_z9BJpP-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/z9BJpP_t20_z9BJpP-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 95523,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/f10c09b1-8255-494f-9302-5ce111a20346"
+        },
+        {
+            "filename": "logo-2.svg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/logo-2.svg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 3748,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-4.svg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/logo-4.svg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 2270,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-5.svg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/logo-5.svg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 1563,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-8.svg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/logo-8.svg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 3081,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-10.svg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/logo-10.svg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 2700,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-11.svg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/logo-11.svg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 672,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "interior-view-of-a-leather-shop-selling-belts-brac-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/interior-view-of-a-leather-shop-selling-belts-brac-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/showroom.json",
+                    "name": "Showroom"
+                }
+            ],
+            "filesize": 172416,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/interior-view-of-a-leather-shop-selling-belts-brac-6HEPMNP"
+        },
+        {
+            "filename": "store-3.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/store-3-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/showroom.json",
+                    "name": "Showroom"
+                }
+            ],
+            "filesize": 270322,
+            "dimensions": [
+                1000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/view-of-assortment-of-decor-for-interior-shop-in-s-Y2NDNRH"
+        },
+        {
+            "filename": "store-3-new.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/store-3-new-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/showroom.json",
+                    "name": "Showroom"
+                }
+            ],
+            "filesize": 152419,
+            "dimensions": [
+                1000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/interior-of-a-shop-selling-clothes-and-accessories-PPN8EJ8"
+        },
+        {
+            "filename": "store-2-new.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/store-2-new-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/showroom.json",
+                    "name": "Showroom"
+                }
+            ],
+            "filesize": 210281,
+            "dimensions": [
+                1000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/interior-view-of-a-leather-shop-selling-belts-brac-6HEPMNP"
+        },
+        {
+            "filename": "open-space-interior-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/open-space-interior-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 140753,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/open-space-interior-PYFAD3X"
+        },
+        {
+            "filename": "sofa-in-multifunctional-interior-potrait.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/sofa-in-multifunctional-interior-potrait-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 252060,
+            "dimensions": [
+                1500,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sofa-in-multifunctional-interior-PELSFNP"
+        },
+        {
+            "filename": "cabin-interior-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/cabin-interior-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 109078,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cabin-interior-RF52KAP"
+        },
+        {
+            "filename": "team-photo-2.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/team-photo-2-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 124462,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-male-owner-of-fashion-store-standing-i-5RMYELB"
+        },
+        {
+            "filename": "team-photo-1.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/team-photo-1-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 85640,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-female-owner-of-fashion-store-using-di-MLDNPPT"
+        },
+        {
+            "filename": "team-photo-4.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/team-photo-4-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 74793,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-male-owner-of-fashion-store-st-U96GD5H"
+        },
+        {
+            "filename": "team-photo-3.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/team-photo-3-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 79761,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-female-owner-of-fashion-store--6RMRGD4"
+        },
+        {
+            "filename": "team-photo-6.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/team-photo-6-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 81333,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-master-at-artwork-5JW9VZF"
+        },
+        {
+            "filename": "team-photo-5.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/team-photo-5-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 61908,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/at-art-studio-G8U3MYV"
+        },
+        {
+            "filename": "team-photo-8.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/team-photo-8-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 73497,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-mature-woman-in-studio-with-pictures-on-wa-XN3KEJW"
+        },
+        {
+            "filename": "team-photo-7.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/team-photo-7-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 61864,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-artisan-in-leather-workshop-GEV4DAM"
+        },
+        {
+            "filename": "team-photo-9.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/team-photo-9-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 85448,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-man-in-workshop-SKJYSCB"
+        },
+        {
+            "filename": "mirror-room-makeup-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/mirror-room-makeup-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 223750,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/c2d481cf-8dea-4d16-84e2-92d07a385398"
+        },
+        {
+            "filename": "clothes-shop-interior-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/clothes-shop-interior-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 188549,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/clothes-shop-interior-PTD6SX7"
+        },
+        {
+            "filename": "jewelry-and-bijouterie-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/jewelry-and-bijouterie-small-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 156935,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/jewelry-and-bijouterie-YJ3GZMX"
+        },
+        {
+            "filename": "modern-simple-cafe-interior-with-wooden-furniture-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/modern-simple-cafe-interior-with-wooden-furniture-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 184287,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-simple-cafe-interior-with-wooden-furniture-P84J5ZU"
+        },
+        {
+            "filename": "ceramic-craft-ware-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/ceramic-craft-ware-small-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 113778,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ceramic-craft-ware-2G2N429"
+        },
+        {
+            "filename": "living-room.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/living-room-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 121293,
+            "dimensions": [
+                1000,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/living-room-with-plants-PU9SJSY"
+        },
+        {
+            "filename": "leather-crafting-tools-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/leather-crafting-tools-small-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 151951,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/leather-crafting-tools-PQCYY9L"
+        },
+        {
+            "filename": "close-up-of-male-hand-of-potter-examining-clay-cup-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/close-up-of-male-hand-of-potter-examining-clay-cup-small-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 52672,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-of-male-hand-of-potter-examining-clay-cup-SY8322X"
+        },
+        {
+            "filename": "small-local-shop-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/small-local-shop-small-600x402.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 254932,
+            "dimensions": [
+                1500,
+                1004
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/e5db25a2-7b41-4f85-824e-8d35ae34d53d"
+        },
+        {
+            "filename": "clay-rustic-kitchenware-pot-bowls-and-plates-from.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/clay-rustic-kitchenware-pot-bowls-and-plates-from-600x578.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 162795,
+            "dimensions": [
+                1500,
+                1444
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/clay-rustic-kitchenware-pot-bowls-and-plates-from--AYZBHE9"
+        },
+        {
+            "filename": "shopping-leather-handmade-crafts-shop-bags-craftsmanship-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/shopping-leather-handmade-crafts-shop-bags-craftsmanship-small-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 137262,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/e815abe9-f0a0-439d-ae1f-bfa9f3b38f45"
+        },
+        {
+            "filename": "paint-brushes-and-tubes-of-oil-paints-on-wooden-ba-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/paint-brushes-and-tubes-of-oil-paints-on-wooden-ba-small-600x470.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 171927,
+            "dimensions": [
+                1200,
+                939
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/paint-brushes-and-tubes-of-oil-paints-on-wooden-ba-PA7BVKK"
+        },
+        {
+            "filename": "artisans-working-with-ceramics-square.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/artisans-working-with-ceramics-square-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 131237,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/artisans-working-with-ceramics-HDN7PA2"
+        },
+        {
+            "filename": "interior-of-independent-gift-and-fashion-store-wit-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/interior-of-independent-gift-and-fashion-store-wit-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 128270,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/interior-of-independent-gift-and-fashion-store-wit-SUL3J5X"
+        },
+        {
+            "filename": "Gallery-2.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/Gallery-2-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 370814,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/colourful-plates-on-sale-PUWWL2Z"
+        },
+        {
+            "filename": "Gallery-3.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/Gallery-3-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 215128,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/living-room-with-plants-PU9SJSY"
+        },
+        {
+            "filename": "Gallery-4.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/Gallery-4-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 252920,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/jewelry-and-bijouterie-YJ3GZMX"
+        },
+        {
+            "filename": "Gallery-5.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/Gallery-5-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 171115,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ceramic-craft-ware-2G2N429"
+        },
+        {
+            "filename": "Gallery-6.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/Gallery-6-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 241971,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/leather-crafting-tools-PQCYY9L"
+        },
+        {
+            "filename": "Gallery-7.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/Gallery-7-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 147016,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/clothes-shop-interior-PTD6SX7"
+        },
+        {
+            "filename": "Gallery-8.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/Gallery-8-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 128329,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/clay-rustic-kitchenware-pot-bowls-and-plates-from--AYZBHE9"
+        },
+        {
+            "filename": "Gallery-9.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/Gallery-9-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 131805,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/c2d481cf-8dea-4d16-84e2-92d07a385398"
+        },
+        {
+            "filename": "3kd74A_t20_kny4wX-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/3kd74A_t20_kny4wX-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 160791,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/4bda7d70-bc1d-4654-8df4-391d75f70039"
+        },
+        {
+            "filename": "paper-waste-for-recycle-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/paper-waste-for-recycle-small-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 157899,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/paper-waste-for-recycle-PJY7P25"
+        },
+        {
+            "filename": "jewelry-square.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/jewelry-square-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 252946,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/jewelry-and-bijouterie-YJ3GZMX"
+        },
+        {
+            "filename": "home-decor-square.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/home-decor-square-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 215058,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/living-room-with-plants-PU9SJSY"
+        },
+        {
+            "filename": "clothing-square.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/clothing-square-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 112812,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-of-clothes-in-workshop-PUGRFQE"
+        },
+        {
+            "filename": "interior-of-a-shop-selling-clothes-and-accessories-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/interior-of-a-shop-selling-clothes-and-accessories-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 122184,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/interior-of-a-shop-selling-clothes-and-accessories-PPN8EJ8"
+        },
+        {
+            "filename": "clothes-shop.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/clothes-shop-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 70777,
+            "dimensions": [
+                1000,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-of-clothes-in-workshop-PUGRFQE"
+        },
+        {
+            "filename": "artisan-in-leather-craft-workshop-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/artisan-in-leather-craft-workshop-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 168571,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/artisan-in-leather-craft-workshop-779TEB4"
+        },
+        {
+            "filename": "interior-with-antuques-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/interior-with-antuques-small-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 166719,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/interior-with-antuques-PSVYNY9"
+        },
+        {
+            "filename": "close-up-interior-of-modern-fashion-showroom-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/close-up-interior-of-modern-fashion-showroom-small-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 81246,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-interior-of-modern-fashion-showroom-BLV9YJ8"
+        },
+        {
+            "filename": "Icon-Idea.png",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/Icon-Idea.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 14840,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/design-icons-DQ2LMW"
+        },
+        {
+            "filename": "Icon-quality.png",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/Icon-quality.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7811,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/product-management-line-icons-XKLQEWY"
+        },
+        {
+            "filename": "Icon-speed.png",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/Icon-speed.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8214,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/product-management-line-icons-XKLQEWY"
+        },
+        {
+            "filename": "Icon-graphic.png",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/Icon-graphic.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8823,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/design-icons-DQ2LMW"
+        },
+        {
+            "filename": "Icon-world.png",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/Icon-world.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 13837,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/product-management-line-icons-XKLQEWY"
+        },
+        {
+            "filename": "Icon-packaging.png",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/Icon-packaging.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8554,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/product-management-line-icons-XKLQEWY"
+        },
+        {
+            "filename": "woman-rolling-out-material-for-craft-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/woman-rolling-out-material-for-craft-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 86893,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-rolling-out-material-for-craft-FU6B4HQ"
+        },
+        {
+            "filename": "sunlight-art-drawing-painting-studio-lifestyle-woman-work-artist-art-studio-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/sunlight-art-drawing-painting-studio-lifestyle-woman-work-artist-art-studio-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 180971,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/fbc4cf3a-9eb1-41eb-b623-0ee1a88b9f39"
+        },
+        {
+            "filename": "testimonial-1.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/testimonial-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10144,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-man-in-workshop-SKJYSCB"
+        },
+        {
+            "filename": "testimonial-2.jpg",
+            "thumbnail_url": "https:\/\/theme.kotakkuning.com\/wp-content\/uploads\/2020\/07\/testimonial-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11571,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-female-owner-of-fashion-store--6RMRGD4"
+        }
+    ]
+}

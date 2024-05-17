@@ -1,0 +1,8 @@
+[28-Jan-2024 01:16:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/cncpackagingkartonbox.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cncpackagingkartonbox.com/wp-includes/blocks/index.php on line 8
+[19-Mar-2024 00:50:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/cncpackagingkartonbox.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cncpackagingkartonbox.com/wp-includes/blocks/index.php on line 8
